@@ -1,6 +1,3 @@
-# IMPORTING OPERATING SYSTEM AND CHANGING THE WORKING DIRECTORY
-import os 
-os.chdir("C:\\Users\\LENOVO\\OneDrive\\Documents\\MKT DS PROJECTS\\Data")
 
 import streamlit as st 
 import pandas as pd
